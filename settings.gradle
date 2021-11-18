@@ -1,0 +1,2 @@
+rootProject.name = "pract4_Kyudyakov"
+include ':app'
